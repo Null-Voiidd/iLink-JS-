@@ -1,8 +1,8 @@
-# 📝 Task Manager Web Application
+# Task Manager Web Application
 
 A simple, clean task management app built with **HTML, CSS, and JavaScript** that lets users add, edit, delete, and filter tasks. Tasks are saved in **local storage** so they persist after closing the browser.
 
-![Task Manager Preview](https://via.placeholder.com/500x300?text=Task+Manager+Preview) *(Replace with an actual screenshot later)*
+![image](https://github.com/user-attachments/assets/cbc21ba4-568d-4a78-9028-ab5cf1b1358d)
 
 ##  Features
 **Add Tasks** – Name + Description  
